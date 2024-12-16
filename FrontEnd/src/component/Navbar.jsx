@@ -55,7 +55,7 @@ const Navbar = () => {
           >
             <img
               className="w-8 h-8 rounded-full"
-              src="src/assets/react.svg"
+              src="src/assets/avatar.svg"
               alt="User Avatar"
             />
             <span className="text-white">Account</span>
